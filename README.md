@@ -14,7 +14,7 @@ Wir bauen Websites, Web-Apps und interne Tools, die im Alltag halten – nicht n
 
 ## Projekte hier
 
-Tools, die wir für uns selbst bauen und dann öffentlich machen – keine Blackbox-Lösungen.
+Tools, die wir für uns selbst bauen und dann öffentlich machen.
 
 <!-- Sobald Repos existieren, hier verlinken, z. B.: -->
 <!-- - [kannibalisierungs-checker](...) – GSC-Export hochladen, Keyword-Kannibalisierung automatisch erkennen -->
