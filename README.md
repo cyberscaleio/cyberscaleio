@@ -16,8 +16,6 @@ Wir bauen Websites, Web-Apps und interne Tools, die im Alltag halten – nicht n
 
 Alle Tools MIT-lizenziert, PRs willkommen.
 
-Alle Tools MIT-lizenziert, PRs willkommen.
-
 **[cyberscale.io](https://www.cyberscale.io) · [Kostenloser Audit anfordern](https://www.cyberscale.io/#audit)**
 
 ## Was wir machen
