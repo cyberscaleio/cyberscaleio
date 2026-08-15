@@ -6,8 +6,6 @@ Wir bauen Websites, Web-Apps und interne Tools, die im Alltag halten – nicht n
 
 ## Tools
 
-## Tools
-
 | Tool | Was es macht | Stack | Status |
 |---|---|---|---|
 | [cannibalization-checker](https://github.com/cyberscaleio/cannibalization-checker) | Findet Keyword-Kannibalisierung und CTR-Anomalien in Google-Search-Console-Daten automatisiert | Python | ✅ Aktiv |
