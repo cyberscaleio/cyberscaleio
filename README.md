@@ -17,7 +17,18 @@ Wir bauen Websites, Web-Apps und interne Tools, die im Alltag halten – nicht n
 
 Alle Tools MIT-lizenziert, PRs willkommen.
 
-**[cyberscale.io](https://www.cyberscale.io) · [Kostenloser Audit anfordern](https://www.cyberscale.io/#audit)**
+## Kostenlose Prüfwerkzeuge
+
+Passiv, ohne Anmeldung, im Browser:
+
+- **[E-Mail-Check](https://www.cyberscale.io/e-mail-check/)** – SPF, DKIM, DMARC und Security-Header in einem Durchlauf ([English version](https://www.cyberscale.io/en/email-check/))
+- **[SPF-Generator](https://www.cyberscale.io/spf-generator/)** und **[DMARC-Generator](https://www.cyberscale.io/dmarc-generator/)** – fertige DNS-Einträge ohne Syntaxfehler
+- **[Blacklist-Check](https://www.cyberscale.io/blacklist-check/)** – steht der Mailserver auf einer Sperrliste?
+- Alle Werkzeuge: **[cyberscale.io/tools](https://www.cyberscale.io/tools/)**
+
+Hintergrund zu E-Mail-Sicherheit, Website-Sicherheit, SEO und sicherer KI-Nutzung im **[Magazin](https://www.cyberscale.io/magazin/)**.
+
+**[cyberscale.io](https://www.cyberscale.io/) · [Kontakt](https://www.cyberscale.io/kontakt/)**
 
 ## Was wir machen
 
@@ -25,13 +36,6 @@ Alle Tools MIT-lizenziert, PRs willkommen.
 - **SEO & GEO** – Technisches SEO direkt im Code beheben statt nur Empfehlungen auszusprechen.
 - **Cybersecurity** – Härtung, Audits, Monitoring. Präventiv statt reaktiv.
 
-## Projekte hier
-
-Tools, die wir für uns selbst bauen und dann öffentlich machen.
-
-<!-- Sobald Repos existieren, hier verlinken, z. B.: -->
-<!-- - [kannibalisierungs-checker](...) – GSC-Export hochladen, Keyword-Kannibalisierung automatisch erkennen -->
-
 ## Kontakt
 
-Fragen, Projektidee oder ein Tool, das dir fehlt? [Schreib uns](https://www.cyberscale.io/kontakt).
+Fragen, Projektidee oder ein Tool, das dir fehlt? [Schreib uns](https://www.cyberscale.io/kontakt/).
